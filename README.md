@@ -6,13 +6,6 @@
 
 ---
 
-### 🧩 My Projects
-- 🔹 useful-scripts — a collection of small Python scripts for daily use  
-- 🔹 portfolio — my personal page and experiments with GitHub Pages  
-- 🔹 sandbox — a testing ground for new ideas and code practice  
-
----
-
 ### 🛠️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,git,bash,html,markdown,github" />
